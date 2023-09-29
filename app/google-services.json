@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942703640474",
+    "project_id": "prelimexamtrondillo",
+    "storage_bucket": "prelimexamtrondillo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942703640474:android:dc7f476a76a63c3024c423",
+        "android_client_info": {
+          "package_name": "ph.edu.uic.register_trondillo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbeZxxV-Ep4RF6YT8KkVjURI5qh_3T9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
